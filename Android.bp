@@ -20,7 +20,7 @@ android_app {
     system_ext_specific: true,
     certificate: "platform",
     privileged: true,
-    privapp_allowlist: "privapp_whitelist_org.protonaosp.columbus.xml",
+    privapp_allowlist: "privapp_whitelist_com.android.columbus.xml",
     static_libs: [
         "kotlin-stdlib",
         "androidx.autofill_autofill",
